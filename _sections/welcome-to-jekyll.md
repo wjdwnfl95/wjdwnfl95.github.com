@@ -1,5 +1,5 @@
 ---
-title: Welcome to Jekyll!
+title: Welcome to JuRi's Blogl!
 icon: fa-check
 order: 5
 ---
